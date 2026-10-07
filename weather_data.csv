@@ -1,0 +1,81 @@
+city,temperature,feels_like,humidity,weather_condition,wind_speed,extracted_at,heat_category,date,hour,month,year,day_name
+Berlin,37.82,40.54,34,scattered clouds,7.15,2026-06-28 17:34:13.455032,Extreme Heat,2026-06-28,17,6,2026,Sunday
+Bonn,34.49,37.16,43,scattered clouds,0.89,2026-06-28 17:34:13.541400,Very Hot,2026-06-28,17,6,2026,Sunday
+Munich,34.76,35.69,36,scattered clouds,0.89,2026-06-28 17:34:13.618633,Very Hot,2026-06-28,17,6,2026,Sunday
+Hamburg,30.28,31.99,53,clear sky,3.58,2026-06-28 17:34:13.714576,Very Hot,2026-06-28,17,6,2026,Sunday
+Magdeburg,33.91,36.07,43,clear sky,7.3,2026-06-28 17:34:13.792651,Very Hot,2026-06-28,17,6,2026,Sunday
+Frankfurt,38.72,40.73,30,clear sky,3.04,2026-06-28 17:34:13.879525,Extreme Heat,2026-06-28,17,6,2026,Sunday
+Stuttgart,36.96,39.27,35,scattered clouds,2.89,2026-06-28 17:34:13.949193,Extreme Heat,2026-06-28,17,6,2026,Sunday
+Cologne,31.46,33.4,50,broken clouds,5.72,2026-06-28 17:34:14.015302,Very Hot,2026-06-28,17,6,2026,Sunday
+Berlin,35.45,38.07,40,scattered clouds,6.26,2026-06-28 19:03:31.889764,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Bonn,30.35,33.09,58,scattered clouds,3.62,2026-06-28 19:03:31.955554,Very Hot,2026-06-28,19,6,2026,Sunday
+Munich,24.61,24.59,56,scattered clouds,5.91,2026-06-28 19:03:32.046035,Warm,2026-06-28,19,6,2026,Sunday
+Hamburg,29.73,31.78,57,clear sky,3.13,2026-06-28 19:03:32.123038,Hot,2026-06-28,19,6,2026,Sunday
+Magdeburg,34.62,38.71,47,clear sky,6.28,2026-06-28 19:03:32.187022,Very Hot,2026-06-28,19,6,2026,Sunday
+Frankfurt,35.8,36.36,32,few clouds,3.88,2026-06-28 19:03:32.258304,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Stuttgart,34.69,36.65,40,scattered clouds,2.26,2026-06-28 19:03:32.328705,Very Hot,2026-06-28,19,6,2026,Sunday
+Cologne,28.28,29.29,55,broken clouds,1.63,2026-06-28 19:03:32.403000,Hot,2026-06-28,19,6,2026,Sunday
+Berlin,35.72,38.26,39,scattered clouds,6.26,2026-06-28 19:10:33.012976,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Bonn,30.17,32.95,59,scattered clouds,3.62,2026-06-28 19:10:33.089404,Very Hot,2026-06-28,19,6,2026,Sunday
+Munich,25.55,25.28,43,scattered clouds,5.91,2026-06-28 19:10:33.150645,Hot,2026-06-28,19,6,2026,Sunday
+Hamburg,29.92,30.93,50,clear sky,3.13,2026-06-28 19:10:33.219954,Hot,2026-06-28,19,6,2026,Sunday
+Magdeburg,33.01,34.72,44,clear sky,3.58,2026-06-28 19:10:33.292435,Very Hot,2026-06-28,19,6,2026,Sunday
+Frankfurt,35.72,36.23,32,few clouds,3.88,2026-06-28 19:10:33.362355,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Stuttgart,34.47,36.53,41,scattered clouds,2.26,2026-06-28 19:10:33.434427,Very Hot,2026-06-28,19,6,2026,Sunday
+Cologne,28.28,29.29,55,broken clouds,1.63,2026-06-28 19:10:33.495313,Hot,2026-06-28,19,6,2026,Sunday
+Berlin,35.72,38.26,39,scattered clouds,6.26,2026-06-28 19:10:39.620730,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Bonn,30.17,32.95,59,scattered clouds,3.62,2026-06-28 19:10:39.696334,Very Hot,2026-06-28,19,6,2026,Sunday
+Munich,25.55,25.28,43,scattered clouds,5.91,2026-06-28 19:10:39.771331,Hot,2026-06-28,19,6,2026,Sunday
+Hamburg,29.92,30.93,50,clear sky,3.13,2026-06-28 19:10:39.845884,Hot,2026-06-28,19,6,2026,Sunday
+Magdeburg,33.01,34.72,44,clear sky,3.58,2026-06-28 19:10:39.919127,Very Hot,2026-06-28,19,6,2026,Sunday
+Frankfurt,35.72,36.23,32,few clouds,3.88,2026-06-28 19:10:39.985585,Extreme Heat,2026-06-28,19,6,2026,Sunday
+Stuttgart,34.47,36.53,41,scattered clouds,2.26,2026-06-28 19:10:40.068806,Very Hot,2026-06-28,19,6,2026,Sunday
+Cologne,28.28,29.29,55,broken clouds,1.63,2026-06-28 19:10:40.137774,Hot,2026-06-28,19,6,2026,Sunday
+Berlin,25.94,26.34,67,overcast clouds,5.81,2026-06-29 17:24:16.588513,Hot,2026-06-29,17,6,2026,Monday
+Bonn,29.95,29.21,36,overcast clouds,0.89,2026-06-29 17:24:16.654489,Hot,2026-06-29,17,6,2026,Monday
+Munich,24.4,24.7,69,overcast clouds,2.31,2026-06-29 17:24:16.720256,Warm,2026-06-29,17,6,2026,Monday
+Hamburg,25.38,25.17,46,overcast clouds,4.92,2026-06-29 17:24:16.793892,Hot,2026-06-29,17,6,2026,Monday
+Magdeburg,20.79,21.2,87,overcast clouds,1.79,2026-06-29 17:24:16.876539,Warm,2026-06-29,17,6,2026,Monday
+Frankfurt,29.41,30.07,49,overcast clouds,3.09,2026-06-29 17:24:16.958814,Hot,2026-06-29,17,6,2026,Monday
+Stuttgart,29.52,30.95,54,broken clouds,3.69,2026-06-29 17:24:17.033503,Hot,2026-06-29,17,6,2026,Monday
+Cologne,28.07,27.59,38,overcast clouds,4.22,2026-06-29 17:24:17.115300,Hot,2026-06-29,17,6,2026,Monday
+Berlin,25.94,26.34,67,overcast clouds,5.81,2026-06-29 17:24:32.468143,Hot,2026-06-29,17,6,2026,Monday
+Bonn,29.95,29.21,36,overcast clouds,0.89,2026-06-29 17:24:32.546951,Hot,2026-06-29,17,6,2026,Monday
+Munich,24.4,24.7,69,overcast clouds,2.31,2026-06-29 17:24:32.628006,Warm,2026-06-29,17,6,2026,Monday
+Hamburg,25.38,25.17,46,overcast clouds,4.92,2026-06-29 17:24:32.693032,Hot,2026-06-29,17,6,2026,Monday
+Magdeburg,20.79,21.2,87,overcast clouds,1.79,2026-06-29 17:24:32.764333,Warm,2026-06-29,17,6,2026,Monday
+Frankfurt,29.41,30.07,49,overcast clouds,3.09,2026-06-29 17:24:32.831076,Hot,2026-06-29,17,6,2026,Monday
+Stuttgart,29.52,30.95,54,broken clouds,3.69,2026-06-29 17:24:32.901831,Hot,2026-06-29,17,6,2026,Monday
+Cologne,28.07,27.59,38,overcast clouds,4.22,2026-06-29 17:24:32.974099,Hot,2026-06-29,17,6,2026,Monday
+Berlin,29.03,28.46,38,broken clouds,4.47,2026-06-30 15:01:33.179877,Hot,2026-06-30,15,6,2026,Tuesday
+Bonn,26.83,27.26,50,overcast clouds,2.54,2026-06-30 15:01:33.320607,Hot,2026-06-30,15,6,2026,Tuesday
+Munich,28.64,30.17,58,broken clouds,1.34,2026-06-30 15:01:33.403252,Hot,2026-06-30,15,6,2026,Tuesday
+Hamburg,24.3,24.59,69,overcast clouds,2.81,2026-06-30 15:01:33.530656,Warm,2026-06-30,15,6,2026,Tuesday
+Magdeburg,26.63,26.63,49,overcast clouds,2.54,2026-06-30 15:01:33.735138,Hot,2026-06-30,15,6,2026,Tuesday
+Frankfurt,28.99,29.3,47,overcast clouds,2.19,2026-06-30 15:01:33.858621,Hot,2026-06-30,15,6,2026,Tuesday
+Stuttgart,30.91,33.07,53,scattered clouds,1.75,2026-06-30 15:01:33.944284,Very Hot,2026-06-30,15,6,2026,Tuesday
+Cologne,26.66,26.66,57,overcast clouds,3.7,2026-06-30 15:01:34.039210,Hot,2026-06-30,15,6,2026,Tuesday
+Berlin,23.19,23.11,59,overcast clouds,3.58,2026-07-01 14:05:15.824325,Warm,2026-07-01,14,7,2026,Wednesday
+Bonn,26.72,26.76,42,clear sky,0.89,2026-07-01 14:05:15.908357,Hot,2026-07-01,14,7,2026,Wednesday
+Munich,17.66,17.96,95,moderate rain,0.45,2026-07-01 14:05:15.982744,Cool,2026-07-01,14,7,2026,Wednesday
+Hamburg,21.69,21.72,69,broken clouds,3.12,2026-07-01 14:05:16.060966,Warm,2026-07-01,14,7,2026,Wednesday
+Magdeburg,23.01,23.32,75,overcast clouds,2.24,2026-07-01 14:05:16.146813,Warm,2026-07-01,14,7,2026,Wednesday
+Frankfurt,27.62,27.34,40,broken clouds,3.76,2026-07-01 14:05:16.222831,Hot,2026-07-01,14,7,2026,Wednesday
+Stuttgart,24.26,24.39,63,overcast clouds,2.1,2026-07-01 14:05:16.300977,Warm,2026-07-01,14,7,2026,Wednesday
+Cologne,25.74,25.62,48,clear sky,4.36,2026-07-01 14:05:16.379828,Hot,2026-07-01,14,7,2026,Wednesday
+Berlin,21.59,21.08,49,broken clouds,8.49,2026-07-03 14:24:03.323266,Warm,2026-07-03,14,7,2026,Friday
+Bonn,26.21,26.21,40,clear sky,1.79,2026-07-03 14:24:03.438953,Hot,2026-07-03,14,7,2026,Friday
+Munich,22.64,22.24,49,scattered clouds,3.13,2026-07-03 14:24:03.590139,Warm,2026-07-03,14,7,2026,Friday
+Hamburg,17.89,17.38,63,scattered clouds,8.94,2026-07-03 14:24:03.784377,Cool,2026-07-03,14,7,2026,Friday
+Magdeburg,21.34,20.99,56,broken clouds,4.02,2026-07-03 14:24:03.913984,Warm,2026-07-03,14,7,2026,Friday
+Frankfurt,25.16,24.8,41,clear sky,3.18,2026-07-03 14:24:04.090517,Hot,2026-07-03,14,7,2026,Friday
+Stuttgart,24.99,24.51,37,scattered clouds,2.93,2026-07-03 14:24:04.372810,Warm,2026-07-03,14,7,2026,Friday
+Cologne,23.48,23.06,45,few clouds,0.45,2026-07-03 14:24:04.537746,Warm,2026-07-03,14,7,2026,Friday
+Berlin,18.83,18.94,83,light rain,4.92,2026-07-07 11:31:42.425710,Cool,2026-07-07,11,7,2026,Tuesday
+Bonn,28.84,27.99,34,overcast clouds,2.24,2026-07-07 11:31:42.517271,Hot,2026-07-07,11,7,2026,Tuesday
+Munich,27.71,27.42,40,overcast clouds,3.58,2026-07-07 11:31:42.608922,Hot,2026-07-07,11,7,2026,Tuesday
+Hamburg,18.71,18.78,82,broken clouds,5.81,2026-07-07 11:31:42.695072,Cool,2026-07-07,11,7,2026,Tuesday
+Magdeburg,21.34,21.31,68,overcast clouds,0.89,2026-07-07 11:31:42.752984,Warm,2026-07-07,11,7,2026,Tuesday
+Frankfurt,25.66,25.35,41,overcast clouds,1.34,2026-07-07 11:31:42.838977,Hot,2026-07-07,11,7,2026,Tuesday
+Stuttgart,28.39,27.87,38,overcast clouds,5.29,2026-07-07 11:31:42.954281,Hot,2026-07-07,11,7,2026,Tuesday
+Cologne,26.1,26.1,42,overcast clouds,0.45,2026-07-07 11:31:43.035091,Hot,2026-07-07,11,7,2026,Tuesday
